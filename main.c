@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 # define Max_Size 10
-# define NUM 3
+# define NUM 4
 
 int main()
 {
